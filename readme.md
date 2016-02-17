@@ -18,7 +18,11 @@ You will be building a responsive login page based on the mockup found in the [m
 1. Make a Pull Request against this repository
 
 __Discuss the relationship between HTML, JavaScript, the DOM API, and jQuery:__
-> Write your answer here...
+HTML is the structure of the document.  It is what visually displays to the end user.
+Javascript is what allows functionality to be added to the page.  jQuery is a framework
+built on javascript that simplifies and makes javascript more shorthand, and can be
+written much faster.  Lastly, the DOM API is how you manipulate the HTML through using
+javascript or jQuery.
 
 ### Acceptance Criteria:
 
